@@ -1,0 +1,48 @@
+# =========================
+# LangChain / LangGraph
+# =========================
+langchain
+langchain-core
+langgraph
+
+# =========================
+# LLM Providers
+# =========================
+langchain-google-genai
+langchain-mistralai
+
+# =========================
+# Environment Variables
+# =========================
+python-dotenv
+
+pydantic
+
+langchain-community
+pypdf
+beautifulsoup4
+
+# =========================
+# Vector Database
+# =========================
+chromadb
+
+# =========================
+# Utilities
+# =========================
+requests
+
+# =========================
+# Agentic Chatbot Tools
+# =========================
+langchain-tavily
+
+# =========================
+# Streamlit UI
+# =========================
+streamlit
+
+# =========================
+# Vector Database / Embeddings
+# =========================
+faiss-cpu
